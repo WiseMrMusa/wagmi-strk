@@ -1,6 +1,6 @@
 {
-  "name": "@starknet-react/core",
-  "version": "2.2.5",
+  "name": "wagmi-strk",
+  "version": "0.0.2",
   "license": "MIT",
   "type": "module",
   "types": "dist/index.d.ts",
